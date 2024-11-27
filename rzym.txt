@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Włochy</title>
+    <style>
+        body {
+            background-color: #d3d3d3;
+            text-align: center;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>3 rzeczy o Włoszech</h1>
+    <p>1. Włochy leżą w Europie Południowej.</p>
+    <p>2. Słyną z kuchni, m.in. pizzy i makaronów.</p>
+    <p>3. Walutą Włoch jest euro.</p>
+    
+    <h1>Stolica Włoch</h1>
+    <p>Stolicą Włoch jest Rzym.</p>
+    <p>1. Rzym jest nazywany "Wiecznym Miastem".</p>
+    <p>2. Znajduje się w nim Koloseum.</p>
+    <p>3. Jest siedzibą Watykanu, najmniejszego państwa świata.</p>
+    
+    <h1>Zdjęcie Rzymu</h1>
+    <p>Oto zdjęcie Rzymu:</p>
+    <img src="rzym.jpg" alt="Zdjęcie Rzymu" width="300" height="250">
+</body>
+</html>
